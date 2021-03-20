@@ -1,0 +1,3 @@
+import MainWindow
+
+MainWindow.run()

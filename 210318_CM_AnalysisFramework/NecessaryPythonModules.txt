@@ -1,0 +1,10 @@
+You must install following python modules to run AnalysisFramework.
+
+PyQt5
+PyQtWebEngine
+XlsxWriter
+kaleido
+plotly
+pandas
+numpy
+xlrd
