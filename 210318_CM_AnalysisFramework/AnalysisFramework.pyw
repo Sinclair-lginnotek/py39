@@ -1,3 +1,0 @@
-import MainWindow
-
-MainWindow.run()
